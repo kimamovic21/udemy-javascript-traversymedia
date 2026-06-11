@@ -1,0 +1,53 @@
+Modern JavaScript From The Beginning 2.0
+
+
+
+Section 01: Intro & getting started
+
+
+01. Welcome to the course
+
+02. Course online
+
+03. What is JavaScript ?
+
+04. Tools & setup
+
+05. Running JavaScript in the browser
+
+06. Course links
+
+
+
+Section 02: Variables, data types & more
+
+
+07. Section intro
+
+08. The sandbox files
+
+09. Using the console
+
+10. Comments & shortcuts
+
+11. Variables & constants
+
+12. Data types
+
+13. Primitive vs reference types
+
+14. Type coercion
+
+15. Working with strings
+
+16. Capitalize challenge
+
+17. Working with numbers
+
+18. The math object
+
+19. Number challenge
+
+20. Dates & times
+
+21. Date methods & DateTimeFormat API
