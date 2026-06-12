@@ -13,3 +13,9 @@ This repository tracks my practice files while following the Traversy Media Udem
 The `01-variables-data-types` folder covers the beginning JavaScript foundations: using the browser console, comments, variables, primitive and reference data types, stack vs heap behavior, type conversion and coercion, operators, strings, numbers, the `Math` object, and the basics of dates and times.
 
 Most examples are meant to be opened in the browser and inspected in the developer console. The challenge folders include small exercises that apply the lessons from the previous topics.
+
+### 02 - Arrays and Objects
+
+The `02-arrays-and-objects` folder builds on the basics by introducing arrays, array methods, nested arrays, concatenation, the spread operator, object literals, object methods, destructuring, property naming, JSON, and small array/object challenges.
+
+Like the first section, these examples are mostly console-based. Open each lesson's `index.html` file in the browser and inspect the output in DevTools.

@@ -51,3 +51,28 @@ Section 02: Variables, data types & more
 20. Dates & times
 
 21. Date methods & DateTimeFormat API
+
+
+
+Section 03: Arrays & objects
+
+
+22. Section intro
+
+23. Creating Arrays
+
+24. Basic array methods
+
+25. Nesting, concat & spread operator
+
+26. Array challenge
+
+27. Object literals
+
+28. Object spread operator & methods
+
+29. Destructuring & naming
+
+30. JSON intro
+
+31. Object challenge
