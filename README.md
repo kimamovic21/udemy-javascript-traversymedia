@@ -19,3 +19,9 @@ Most examples are meant to be opened in the browser and inspected in the develop
 The `02-arrays-and-objects` folder builds on the basics by introducing arrays, array methods, nested arrays, concatenation, the spread operator, object literals, object methods, destructuring, property naming, JSON, and small array/object challenges.
 
 Like the first section, these examples are mostly console-based. Open each lesson's `index.html` file in the browser and inspect the output in DevTools.
+
+### 03 - Functions and Scope
+
+The `03-functions-scope` folder introduces JavaScript functions, parameters, arguments, return values, global/function/block scope, nested scope, function declarations vs expressions, arrow functions, IIFEs, execution context, and the call stack.
+
+These lessons are still focused on browser console practice. Some scope examples intentionally demonstrate errors when a variable is accessed outside its scope, so read the comments before uncommenting or running those lines.

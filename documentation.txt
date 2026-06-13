@@ -76,3 +76,34 @@ Section 03: Arrays & objects
 30. JSON intro
 
 31. Object challenge
+
+
+
+Section 04: Functions, scope & execution context
+
+
+23. Section intro
+
+24. Function basics
+
+25. More on params & arguments
+
+26. Global & function scope
+
+27. Block scope
+
+28. Nested scope
+
+29. Declaration vs expression
+
+30. Arrow functions
+
+31. Immediately invoked function expression
+
+32. Function challenges
+
+33. Execution context
+
+34. Execution context in action
+
+35. The call stack
