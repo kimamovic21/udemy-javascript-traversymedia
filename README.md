@@ -25,3 +25,9 @@ Like the first section, these examples are mostly console-based. Open each lesso
 The `03-functions-scope` folder introduces JavaScript functions, parameters, arguments, return values, global/function/block scope, nested scope, function declarations vs expressions, arrow functions, IIFEs, execution context, and the call stack.
 
 These lessons are still focused on browser console practice. Some scope examples intentionally demonstrate errors when a variable is accessed outside its scope, so read the comments before uncommenting or running those lines.
+
+### 04 - Logic and Control Flow
+
+The `04-logic-control-flow` folder covers JavaScript decision-making with `if`, `else if`, nested conditionals, `switch` statements, truthy and falsy values, logical operators, logical assignment operators, and ternary expressions.
+
+These examples continue the console-based practice style. The calculator challenge applies control flow by choosing an arithmetic operation from an operator value and returning a result or fallback message.

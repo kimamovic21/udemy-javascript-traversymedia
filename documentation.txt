@@ -107,3 +107,26 @@ Section 04: Functions, scope & execution context
 34. Execution context in action
 
 35. The call stack
+
+
+
+Section 05: Logic & control flow
+
+
+36. Section intro
+
+37. If statements
+
+38. If else & nesting
+
+39. Switches
+
+40. Calculator challenge
+
+41. Truthy & falsy
+
+42. Logical operators
+
+43. Logical assignment
+
+44. Ternary operator
