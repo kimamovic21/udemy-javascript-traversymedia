@@ -31,3 +31,9 @@ These lessons are still focused on browser console practice. Some scope examples
 The `04-logic-control-flow` folder covers JavaScript decision-making with `if`, `else if`, nested conditionals, `switch` statements, truthy and falsy values, logical operators, logical assignment operators, and ternary expressions.
 
 These examples continue the console-based practice style. The calculator challenge applies control flow by choosing an arithmetic operation from an operator value and returning a result or fallback message.
+
+### 05 - Iteration and Array Methods
+
+The `05-iteration-array-methods` folder introduces loops and array iteration patterns: `for`, `while`, `do...while`, `break`, `continue`, `for...of`, `for...in`, `forEach()`, `filter()`, `map()`, and `reduce()`.
+
+These lessons show both traditional loop syntax and modern array methods. The challenge folders apply the same ideas with FizzBuzz and small data transformation exercises.

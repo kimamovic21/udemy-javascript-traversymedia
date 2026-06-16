@@ -82,51 +82,78 @@ Section 03: Arrays & objects
 Section 04: Functions, scope & execution context
 
 
-23. Section intro
+32. Section intro
 
-24. Function basics
+33. Function basics
 
-25. More on params & arguments
+34. More on params & arguments
 
-26. Global & function scope
+35. Global & function scope
 
-27. Block scope
+36. Block scope
 
-28. Nested scope
+37. Nested scope
 
-29. Declaration vs expression
+38. Declaration vs expression
 
-30. Arrow functions
+39. Arrow functions
 
-31. Immediately invoked function expression
+40. Immediately invoked function expression
 
-32. Function challenges
+41. Function challenges
 
-33. Execution context
+42. Execution context
 
-34. Execution context in action
+43. Execution context in action
 
-35. The call stack
+44. The call stack
 
 
 
 Section 05: Logic & control flow
 
 
-36. Section intro
+45. Section intro
 
-37. If statements
+46. If statements
 
-38. If else & nesting
+47. If else & nesting
 
-39. Switches
+48. Switches
 
-40. Calculator challenge
+49. Calculator challenge
 
-41. Truthy & falsy
+50. Truthy & falsy
 
-42. Logical operators
+51. Logical operators
 
-43. Logical assignment
+52. Logical assignment
 
-44. Ternary operator
+53. Ternary operator
+
+
+
+Section 06: Loops, iteration & array methods
+
+
+54. Section intro
+
+55. For loop
+
+56. Break & continue
+
+57. While & do while loops
+
+58. FizzBuzz challenge
+
+59. For of loop
+
+60. Array.forEach
+
+61. Array.filter
+
+62. Array.map
+
+63. Array.reduce
+
+64. Array method challenges
