@@ -157,3 +157,38 @@ Section 06: Loops, iteration & array methods
 63. Array.reduce
 
 64. Array method challenges
+
+
+
+Section 07: Document object model
+
+
+65. Section intro
+
+66. Intro to the DOM
+
+67. Document element properties
+
+68. DOM selectors - single elements
+
+69. DOM selectors - multiple elements
+
+70. Traversing the DOM - elements
+
+71. Traversing the DOM - nodes
+
+72. Create & append elements
+
+73. InnerHTML vs createElement()
+
+74. Refactor to multiple functions
+
+75. Insert elements, text & HTML
+
+76. Custom insertAfter challenge
+
+77. Replace elements
+
+78. Remove elements
+
+79. Working with styles & classes
