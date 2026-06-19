@@ -47,3 +47,9 @@ These lessons show both traditional loop syntax and modern array methods. The ch
 The `06-document-object-model` folder introduces browser DOM work: reading the `document` object, selecting elements, traversing elements and nodes, creating and inserting elements, replacing and removing elements, and changing styles and classes from JavaScript.
 
 These lessons move beyond console-only examples into visible page manipulation. Several lessons use the shopping list page as a shared DOM practice app, and the custom `insertAfter()` challenge applies traversal and insertion concepts together.
+
+### 08 - Events
+
+The `07-events` folder covers browser events and user interaction: click handlers, mouse events, the event object, keyboard events, input and form events, event bubbling, event delegation, and window events.
+
+These lessons continue using the shopping list page for hands-on DOM practice, then add a small keycode project and window event examples to show how JavaScript responds to user actions and browser-level changes.
