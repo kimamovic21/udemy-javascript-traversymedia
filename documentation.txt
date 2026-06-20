@@ -192,3 +192,63 @@ Section 07: Document object model
 78. Remove elements
 
 79. Working with styles & classes
+
+
+
+Section 08: Events
+
+
+80. Section intro
+
+81. Events listeners
+
+82. Mouse events
+
+83. The event object 
+
+84. Keyboard events & key properties
+
+85. KeyCode mini-project
+
+86. Input events
+
+87. Form submission & FormData object
+
+88. Event bubbling
+
+89. Event delegation & multiple elements
+
+90. Page loading & window events
+
+
+
+Section 09: Shopping list project
+
+
+91. Shopping list - project intro
+
+92. Add items to list
+
+93. Setting up Git & GitHub (optional)
+
+94. Remove & clear items
+
+95. Clear UI state
+
+96. Filter items
+
+97. Local storage crash course
+
+98. Add Item to local storage
+
+99. Display items from local storage
+
+100. Remove items from local storage
+
+101. Set item to edit
+
+102. Update & reset state
+
+103. Prevent duplicate items 
+
+104. Deploy to Netlify

@@ -53,3 +53,9 @@ These lessons move beyond console-only examples into visible page manipulation. 
 The `07-events` folder covers browser events and user interaction: click handlers, mouse events, the event object, keyboard events, input and form events, event bubbling, event delegation, and window events.
 
 These lessons continue using the shopping list page for hands-on DOM practice, then add a small keycode project and window event examples to show how JavaScript responds to user actions and browser-level changes.
+
+### 09 - Shopping List Project
+
+The `08-shopping-list-project` folder builds a complete vanilla JavaScript shopping list app across small project steps: adding items, removing and clearing items, managing empty UI state, filtering the list, persisting data with local storage, editing items, resetting form state, and preventing duplicates.
+
+Each numbered folder shows the app at one stage of the build, while `shopping-list-final` contains the finished project with the final README and screenshot.
