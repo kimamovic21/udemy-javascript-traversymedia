@@ -38,217 +38,260 @@ Section 02: Variables, data types & more
 
 14. Type coercion
 
-15. Working with strings
+15. Operators
 
-16. Capitalize challenge
+16. Type coercion
 
-17. Working with numbers
+17. Working with strings
 
-18. The math object
+18. Capitalize challenge
 
-19. Number challenge
+19. Working with numbers
 
-20. Dates & times
+20. The math object
 
-21. Date methods & DateTimeFormat API
+21. Number challenge
+
+22. Dates & times
+
+23. Date methods & DateTimeFormat API
 
 
 
 Section 03: Arrays & objects
 
 
-22. Section intro
+24. Section intro
 
-23. Creating Arrays
+25. Creating Arrays
 
-24. Basic array methods
+26. Basic array methods
 
-25. Nesting, concat & spread operator
+27. Nesting, concat & spread operator
 
-26. Array challenge
+28. Array challenge
 
-27. Object literals
+29. Object literals
 
-28. Object spread operator & methods
+30. Object spread operator & methods
 
-29. Destructuring & naming
+31. Destructuring & naming
 
-30. JSON intro
+32. JSON intro
 
-31. Object challenge
+33. Object challenge
 
 
 
 Section 04: Functions, scope & execution context
 
 
-32. Section intro
+34. Section intro
 
-33. Function basics
+35. Function basics
 
-34. More on params & arguments
+36. More on params & arguments
 
-35. Global & function scope
+37. Global & function scope
 
-36. Block scope
+38. Block scope
 
-37. Nested scope
+39. Nested scope
 
-38. Declaration vs expression
+40. Declaration vs expression
 
-39. Arrow functions
+41. Arrow functions
 
-40. Immediately invoked function expression
+42. Immediately invoked function expression
 
-41. Function challenges
+43. Function challenges
 
-42. Execution context
+44. Execution context
 
-43. Execution context in action
+45. Execution context in action
 
-44. The call stack
+46. The call stack
 
 
 
 Section 05: Logic & control flow
 
 
-45. Section intro
+47. Section intro
 
-46. If statements
+48. If statements
 
-47. If else & nesting
+49. If else & nesting
 
-48. Switches
+50. Switches
 
-49. Calculator challenge
+51. Calculator challenge
 
-50. Truthy & falsy
+52. Truthy & falsy
 
-51. Logical operators
+53. Logical operators
 
-52. Logical assignment
+54. Logical assignment
 
-53. Ternary operator
+55. Ternary operator
 
 
 
 Section 06: Loops, iteration & array methods
 
 
-54. Section intro
+56. Section intro
 
-55. For loop
+57. For loop
 
-56. Break & continue
+58. Break & continue
 
-57. While & do while loops
+59. While & do while loops
 
-58. FizzBuzz challenge
+60. FizzBuzz challenge
 
-59. For of loop
+61. For of loop
 
-60. Array.forEach
+62. For in loop
 
-61. Array.filter
+63. Array.forEach
 
-62. Array.map
+64. Array.filter
 
-63. Array.reduce
+65. Array.map
 
-64. Array method challenges
+66. Array.reduce
+
+67. Array method challenges
 
 
 
 Section 07: Document object model
 
 
-65. Section intro
+68. Section intro
 
-66. Intro to the DOM
+69. Intro to the DOM
 
-67. Document element properties
+70. Document element properties
 
-68. DOM selectors - single elements
+71. DOM selectors - single elements
 
-69. DOM selectors - multiple elements
+72. DOM selectors - multiple elements
 
-70. Traversing the DOM - elements
+73. Traversing the DOM - elements
 
-71. Traversing the DOM - nodes
+74. Traversing the DOM - nodes
 
-72. Create & append elements
+75. Create & append elements
 
-73. InnerHTML vs createElement()
+76. InnerHTML vs createElement()
 
-74. Refactor to multiple functions
+77. Refactor to multiple functions
 
-75. Insert elements, text & HTML
+78. Insert elements, text & HTML
 
-76. Custom insertAfter challenge
+79. Custom insertAfter challenge
 
-77. Replace elements
+80. Replace elements
 
-78. Remove elements
+81. Remove elements
 
-79. Working with styles & classes
+82. Working with styles & classes
 
 
 
 Section 08: Events
 
 
-80. Section intro
+83. Section intro
 
-81. Events listeners
+84. Events listeners
 
-82. Mouse events
+85. Mouse events
 
-83. The event object 
+86. The event object 
 
-84. Keyboard events & key properties
+87. Keyboard events & key properties
 
-85. KeyCode mini-project
+88. KeyCode mini-project
 
-86. Input events
+89. Input events
 
-87. Form submission & FormData object
+90. Form submission & FormData object
 
-88. Event bubbling
+91. Event bubbling
 
-89. Event delegation & multiple elements
+92. Event delegation & multiple elements
 
-90. Page loading & window events
+93. Page loading & window events
 
 
 
 Section 09: Shopping list project
 
 
-91. Shopping list - project intro
+94. Shopping list - project intro
 
-92. Add items to list
+95. Add items to list
 
-93. Setting up Git & GitHub (optional)
+96. Setting up Git & GitHub (optional)
 
-94. Remove & clear items
+97. Remove & clear items
 
-95. Clear UI state
+98. Clear UI state
 
-96. Filter items
+99. Filter items
 
-97. Local storage crash course
+100. Local storage crash course
 
-98. Add Item to local storage
+101. Add Item to local storage
 
-99. Display items from local storage
+102. Display items from local storage
 
-100. Remove items from local storage
+103. Remove items from local storage
 
-101. Set item to edit
+104. Set item to edit
 
-102. Update & reset state
+105. Update & reset state
 
-103. Prevent duplicate items 
+106. Prevent duplicate items 
 
-104. Deploy to Netlify
+107. Deploy to Netlify
+
+
+
+Section 10: Asynchronous JavaScript
+
+
+108. Section intro
+
+109. Thread of execution
+
+110. How async JavaScript works
+
+111. setTimeout & clearTimeout
+
+112. setInterval & clearInterval
+
+113. Callbacks
+
+114. HTTP request crash course
+
+115. DevTools network tab
+
+116. AJAX & XHR object
+
+117. Joke generator project challenge
+
+118. Callback hell
+
+119. Promises
+
+120. Callback to promise refactor
+
+121. Promise chaining
+
+122. Promises vs callback hell
+
+123. promise.all()
