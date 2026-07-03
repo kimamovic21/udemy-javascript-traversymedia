@@ -65,3 +65,9 @@ Each numbered folder shows the app at one stage of the build, while `shopping-li
 The `09-asynchronous-javascript` folder introduces asynchronous JavaScript patterns: timers, callbacks, AJAX with `XMLHttpRequest`, callback nesting, promises, promise chaining, and `Promise.all()`.
 
 These lessons start with simple timer behavior, then move into API and JSON requests. The joke generator challenge uses a public API, while the later lessons compare callback-based async code with cleaner promise-based flows.
+
+### 11 - Fetch and Async Await
+
+The `10-fetch-and-async-await` folder builds on asynchronous JavaScript with the modern `fetch()` API, request options, fetch error handling, `async` and `await`, `try...catch`, and loading multiple promises.
+
+These lessons include small projects for a random user generator and JSONPlaceholder todos app, then revisit error handling and parallel requests using cleaner async/await patterns.

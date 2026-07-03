@@ -295,3 +295,29 @@ Section 10: Asynchronous JavaScript
 122. Promises vs callback hell
 
 123. promise.all()
+
+
+
+Section 11: Fetch API & async await
+
+124. Section intro
+
+125. Fetch basics
+
+126. Random user mini-project
+
+127. Fetch options - method, body, headers
+
+128. Typicode todos mini-project [1]
+
+129. Typicode todos mini-project [2]
+
+130. Fetch API error handling
+
+131. Async and await
+
+132. Try... catch statements
+
+133. Async & await error handling
+
+134. Multiple promises with async & await
