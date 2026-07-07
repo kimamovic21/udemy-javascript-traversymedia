@@ -71,3 +71,9 @@ These lessons start with simple timer behavior, then move into API and JSON requ
 The `10-fetch-and-async-await` folder builds on asynchronous JavaScript with the modern `fetch()` API, request options, fetch error handling, `async` and `await`, `try...catch`, and loading multiple promises.
 
 These lessons include small projects for a random user generator and JSONPlaceholder todos app, then revisit error handling and parallel requests using cleaner async/await patterns.
+
+### 12 - Flixx App Project
+
+The `11-flixx-app-project` folder builds a movie and TV discovery app with vanilla JavaScript, the TMDB API, dynamic detail pages, search, pagination, loading spinners, and a Swiper-powered movie slider.
+
+The project includes the completed app files at the folder root and a `_theme_only` starter theme for the static HTML/CSS version of the app.

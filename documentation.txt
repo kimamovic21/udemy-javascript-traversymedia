@@ -300,6 +300,7 @@ Section 10: Asynchronous JavaScript
 
 Section 11: Fetch API & async await
 
+
 124. Section intro
 
 125. Fetch basics
@@ -321,3 +322,34 @@ Section 11: Fetch API & async await
 133. Async & await error handling
 
 134. Multiple promises with async & await
+
+
+
+Section 12: Flixx movie app project
+
+
+135. Flixx movie app - project intro
+
+136. Theme overview & prep
+
+137. API overview & API key
+
+138. Page router & active link
+
+139. Display popular movies
+
+140. Spinner & popular TV shows
+
+141. Movie details page
+
+142. Details page backdrop
+
+143. TV show details page
+
+144. Swipper slider
+
+145. Search function & custom alert
+
+146. Display search results
+
+147. Add pagination for search
