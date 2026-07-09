@@ -77,3 +77,9 @@ These lessons include small projects for a random user generator and JSONPlaceho
 The `11-flixx-app-project` folder builds a movie and TV discovery app with vanilla JavaScript, the TMDB API, dynamic detail pages, search, pagination, loading spinners, and a Swiper-powered movie slider.
 
 The project includes the completed app files at the folder root and a `_theme_only` starter theme for the static HTML/CSS version of the app.
+
+### 13 - Web Browser APIs
+
+The `12-web-browser-apis` folder explores browser APIs beyond the DOM: geolocation, maps, canvas drawing, animation frames, audio and video controls, the Web Animations API, speech recognition, and speech synthesis.
+
+These lessons include several small projects, including an animated clock, music player, drum machine, and custom video player, with media assets stored alongside each project.

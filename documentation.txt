@@ -353,3 +353,22 @@ Section 12: Flixx movie app project
 146. Display search results
 
 147. Add pagination for search
+
+
+
+Section 13: Web & browser APIs
+
+
+148. Section intro
+
+149. GeoLocation API
+
+150. Show location on map
+
+151. Canvas API
+
+152. requestAnimationFrame
+
+153. Animated clock mini-project[1]
+
+154. Animated clock mini-project[2]
