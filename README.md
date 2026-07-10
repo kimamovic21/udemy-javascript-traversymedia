@@ -83,3 +83,9 @@ The project includes the completed app files at the folder root and a `_theme_on
 The `12-web-browser-apis` folder explores browser APIs beyond the DOM: geolocation, maps, canvas drawing, animation frames, audio and video controls, the Web Animations API, speech recognition, and speech synthesis.
 
 These lessons include several small projects, including an animated clock, music player, drum machine, and custom video player, with media assets stored alongside each project.
+
+### 14 - OOP Constructors and Prototypes
+
+The `13-oop-constructors-prototypes` folder introduces object-oriented JavaScript with object literals, `this`, constructor functions, object properties, prototypes, prototype methods, `Object.create()`, and prototypical inheritance.
+
+These lessons show the older constructor/prototype style behind JavaScript objects before moving into class syntax, and the OOP challenge applies the concepts with a small player experience system.

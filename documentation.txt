@@ -372,3 +372,47 @@ Section 13: Web & browser APIs
 153. Animated clock mini-project[1]
 
 154. Animated clock mini-project[2]
+
+155. Web Audio API
+
+156. Music player project
+
+157. Drum machine project
+
+158. Video API
+
+159. Video player project
+
+160. Web animations API - ball project
+
+161. Speech recognition API
+
+162. Speech synthesis API
+
+
+
+Section 14: OOP - Constructors & Prototypes
+
+163. Section intro
+
+164. What is OOP ?
+
+165. 4 basic principles of OOP
+
+166. More on object literals & the "this" keyword
+
+167. Constructor functions
+
+168. Literals vs built-in constructors
+
+169. Working with object properties
+
+170. Prototypes & the prototype chain
+
+171. Adding methods to the prototype
+
+172. Object.create
+
+173. Prototypical inheritance & call()
+
+174. OOP game challenge
