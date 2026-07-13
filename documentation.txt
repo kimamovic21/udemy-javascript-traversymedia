@@ -393,6 +393,7 @@ Section 13: Web & browser APIs
 
 Section 14: OOP - Constructors & Prototypes
 
+
 163. Section intro
 
 164. What is OOP ?
@@ -416,3 +417,28 @@ Section 14: OOP - Constructors & Prototypes
 173. Prototypical inheritance & call()
 
 174. OOP game challenge
+
+
+
+Section 15: OOP - classes, getters & setters, private properties, etc
+
+
+175. Classes
+
+176. Class inheritance
+
+177. Static methods
+
+178. bind() & defining "this"
+
+179. Getters & setters with classes
+
+180. Getters & setters with defineProperty()
+
+181. Private property convention
+
+182. ES2022 private class fields
+
+183. Property flags & descriptors
+
+184. Sealing & freezing objects

@@ -89,3 +89,9 @@ These lessons include several small projects, including an animated clock, music
 The `13-oop-constructors-prototypes` folder introduces object-oriented JavaScript with object literals, `this`, constructor functions, object properties, prototypes, prototype methods, `Object.create()`, and prototypical inheritance.
 
 These lessons show the older constructor/prototype style behind JavaScript objects before moving into class syntax, and the OOP challenge applies the concepts with a small player experience system.
+
+### 15 - OOP Classes and Private Properties
+
+The `14-oop-classes-private-properties` folder continues object-oriented JavaScript with class syntax, inheritance, static methods, `this` binding, getters and setters, private property conventions, ES2022 private fields, property descriptors, sealing, and freezing.
+
+These lessons connect modern class features back to the prototype concepts from the previous section and show how JavaScript controls object access and mutability.
