@@ -95,3 +95,9 @@ These lessons show the older constructor/prototype style behind JavaScript objec
 The `14-oop-classes-private-properties` folder continues object-oriented JavaScript with class syntax, inheritance, static methods, `this` binding, getters and setters, private property conventions, ES2022 private fields, property descriptors, sealing, and freezing.
 
 These lessons connect modern class features back to the prototype concepts from the previous section and show how JavaScript controls object access and mutability.
+
+### 16 - Tracalorie Project
+
+The `15-tracalorie-project` folder builds a calorie tracking app with vanilla JavaScript classes, Bootstrap UI components, meal and workout tracking, calorie totals, filtering, and local storage persistence.
+
+The project includes the completed app at the folder root and a `theme_only` starter version with the static Bootstrap/SCSS theme assets.

@@ -442,3 +442,44 @@ Section 15: OOP - classes, getters & setters, private properties, etc
 183. Property flags & descriptors
 
 184. Sealing & freezing objects
+
+
+
+Section 16: Tracalorie App - OOP project
+
+
+185. Tracalorie app - project intro
+
+186. UI theme setup
+
+187. Project planning & overview
+
+188. Base tracker, meal & workout classes
+
+189. Display tracker stats
+
+190. Progress bar & calorie alert
+
+191. App class, new meal & workout
+
+192. Refactor to single _newItem() method
+
+193. Display new meal & workout
+
+194. Remove meal & workout
+
+195. Filter & reset
+
+196. Set calorie limit
+
+197. Storage class & calorie limit persist
+
+198. Persist total calories to local storage
+
+199. Save meals to local storage
+
+200. Save workouts to local storage
+
+201. Remove meals & workouts from local storage
+
+202. Clear storage items
