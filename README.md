@@ -101,3 +101,9 @@ These lessons connect modern class features back to the prototype concepts from 
 The `15-tracalorie-project` folder builds a calorie tracking app with vanilla JavaScript classes, Bootstrap UI components, meal and workout tracking, calorie totals, filtering, and local storage persistence.
 
 The project includes the completed app at the folder root and a `theme_only` starter version with the static Bootstrap/SCSS theme assets.
+
+### 17 - Modules and Tooling
+
+The `16-modules-and-tooling` folder introduces JavaScript tooling and module workflows: running JavaScript with Node.js, CommonJS modules, npm packages, ES modules, Webpack, loaders, plugins, dev server, Babel, CSS extraction, and a modular Tracalorie Webpack refactor.
+
+These lessons move from small Node and module examples into a full Webpack build setup, ending with a final bundled version of the Tracalorie app.

@@ -483,3 +483,38 @@ Section 16: Tracalorie App - OOP project
 201. Remove meals & workouts from local storage
 
 202. Clear storage items
+
+
+
+Section 17: Modules & tooling
+
+
+203. Section intro
+
+204. What are modules ?
+
+205. Installing & using Node.js
+
+206. CommonJS modules
+
+207. NPM packages
+
+208. ES modules
+
+209. Module bundlers
+
+210. Webpack basic setup
+
+211. CSS & style loaders
+
+212. HTML webpack plugin
+
+213. Webpack dev server setup
+
+214. Babel setup
+
+215. CSS minify extract plugin
+
+216. Tracalorie refactor for webpack
+
+217. Deploy Tracalorie to Netlify
