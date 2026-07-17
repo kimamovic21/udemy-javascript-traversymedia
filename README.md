@@ -107,3 +107,9 @@ The project includes the completed app at the folder root and a `theme_only` sta
 The `16-modules-and-tooling` folder introduces JavaScript tooling and module workflows: running JavaScript with Node.js, CommonJS modules, npm packages, ES modules, Webpack, loaders, plugins, dev server, Babel, CSS extraction, and a modular Tracalorie Webpack refactor.
 
 These lessons move from small Node and module examples into a full Webpack build setup, ending with a final bundled version of the Tracalorie app.
+
+### 18 - Iterators and Data Structures
+
+The `17-iterators-data-structures` folder introduces symbols, custom iterators, generator functions, sets, maps, and common data structures such as stacks, queues, and linked lists.
+
+These lessons connect JavaScript's iterable protocols with practical data-structure examples, then apply the concepts in small projects like a generator-powered profile scroller and a Map-based poll app.

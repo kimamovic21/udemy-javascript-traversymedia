@@ -518,3 +518,30 @@ Section 17: Modules & tooling
 216. Tracalorie refactor for webpack
 
 217. Deploy Tracalorie to Netlify
+
+
+
+Section 18: Iterators, generators & data structures
+
+
+218. Section intro
+
+219. Symbols
+
+220. Iterators
+
+221. Generators
+
+222. Profile scroller mini-project
+
+223. Sets
+
+224. Maps
+
+225. Poll mini-project
+
+226. Stacks
+
+227. Queues
+
+228. Linked lists
