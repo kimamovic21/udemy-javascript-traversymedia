@@ -113,3 +113,9 @@ These lessons move from small Node and module examples into a full Webpack build
 The `17-iterators-data-structures` folder introduces symbols, custom iterators, generator functions, sets, maps, and common data structures such as stacks, queues, and linked lists.
 
 These lessons connect JavaScript's iterable protocols with practical data-structure examples, then apply the concepts in small projects like a generator-powered profile scroller and a Map-based poll app.
+
+### 19 - Unit Testing and Algorithms
+
+The `18-unit-testing-algorithms` folder introduces unit testing with Jest through small JavaScript algorithms, including sum, FizzBuzz, reverse string, palindrome, array chunking, anagrams, DOM tag searching, and duplicate ID detection.
+
+These lessons move from a basic Jest setup into grouped tests, algorithm test cases, Node assertions, recursive DOM traversal, `jsdom` configuration, and Jest lifecycle hooks.

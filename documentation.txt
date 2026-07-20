@@ -545,3 +545,28 @@ Section 18: Iterators, generators & data structures
 227. Queues
 
 228. Linked lists
+
+
+
+Section 19: Unit testing algorithms
+
+
+229. Intro & what are algorithms ?
+
+230. What is unit testing ?
+
+231. Getting started with Jest
+
+232. Grouping tests with describe()
+
+233. Reverse string algorithm
+
+234. Palindrome algorithm
+
+235. Array chunking
+
+236. Anagram algorithm
+
+237. Get elements by tad - jsdom
+
+238. Has duplicate IDs - jsdom
