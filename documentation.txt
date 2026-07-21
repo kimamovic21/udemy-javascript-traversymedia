@@ -570,3 +570,20 @@ Section 19: Unit testing algorithms
 237. Get elements by tad - jsdom
 
 238. Has duplicate IDs - jsdom
+
+
+
+Section 20: Node.js modules
+
+
+239. Section intro
+
+240. FS (FileSystem) module
+
+241. Path module
+
+242. OS module
+
+243. URL & QueryString module
+
+244. HTTP module

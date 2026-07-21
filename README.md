@@ -119,3 +119,9 @@ These lessons connect JavaScript's iterable protocols with practical data-struct
 The `18-unit-testing-algorithms` folder introduces unit testing with Jest through small JavaScript algorithms, including sum, FizzBuzz, reverse string, palindrome, array chunking, anagrams, DOM tag searching, and duplicate ID detection.
 
 These lessons move from a basic Jest setup into grouped tests, algorithm test cases, Node assertions, recursive DOM traversal, `jsdom` configuration, and Jest lifecycle hooks.
+
+### 20 - Node.js Modules
+
+The `19-nodejs-modules` folder introduces Node.js core modules, including `fs`, `path`, `os`, `url`, `querystring`, and `http`.
+
+These lessons show how JavaScript can work with the file system, inspect operating-system details, parse paths and URLs, handle query strings, and create a small HTTP server that serves HTML and JSON responses.
