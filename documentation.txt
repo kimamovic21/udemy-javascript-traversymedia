@@ -587,3 +587,28 @@ Section 20: Node.js modules
 243. URL & QueryString module
 
 244. HTTP module
+
+
+
+Section 21: RandomIdeas app - Backend REST API
+
+
+245. RandomIdeas full stack app - project intro
+
+246. Express setup & basic API
+
+247. Nodemon & route clean up
+
+248. Handle POST requests - Add idea
+
+249. PUT & DELETE requests - update & delete ideas
+
+250. What is MongoDB?
+
+251. MongoDB Atlas setup
+
+252. Mongoose connect & Dotenv
+
+253. Mongoose schema & model
+
+254. Database queries

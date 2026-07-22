@@ -125,3 +125,9 @@ These lessons move from a basic Jest setup into grouped tests, algorithm test ca
 The `19-nodejs-modules` folder introduces Node.js core modules, including `fs`, `path`, `os`, `url`, `querystring`, and `http`.
 
 These lessons show how JavaScript can work with the file system, inspect operating-system details, parse paths and URLs, handle query strings, and create a small HTTP server that serves HTML and JSON responses.
+
+### 21 - RandomIdeas REST API
+
+The `20-randomideas-rest-api` folder builds a backend REST API with Express, MongoDB, Mongoose, dotenv, route modules, and JSON request/response handling.
+
+This project creates CRUD endpoints for ideas, connects to MongoDB through an environment variable, defines an idea model, and separates database configuration, routes, and server setup into focused files.
