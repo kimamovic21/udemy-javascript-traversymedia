@@ -612,3 +612,29 @@ Section 21: RandomIdeas app - Backend REST API
 253. Mongoose schema & model
 
 254. Database queries
+
+
+
+Section 22: RandomIdeas app - webpack frontend
+
+255. Fullstack workflow
+
+256. Client folder setup
+
+257. Modal component
+
+258. IdeaForm component
+
+259. IdeaList Component
+
+260. API service - get ideas
+
+261. Create idea via form
+
+262. Save username to local storage
+
+263. Add username validation to server
+
+264. Add delete functionality
+
+265. Deploying a fullstack app

@@ -131,3 +131,9 @@ These lessons show how JavaScript can work with the file system, inspect operati
 The `20-randomideas-rest-api` folder builds a backend REST API with Express, MongoDB, Mongoose, dotenv, route modules, and JSON request/response handling.
 
 This project creates CRUD endpoints for ideas, connects to MongoDB through an environment variable, defines an idea model, and separates database configuration, routes, and server setup into focused files.
+
+### 22 - RandomIdeas Frontend
+
+The `21-randomideas-frontend` folder expands the RandomIdeas API into a full-stack app with an Express backend, MongoDB persistence, CORS, a Webpack frontend, Axios API services, modular UI components, and production assets served from the `public` folder.
+
+This project connects the frontend and backend workflows: users can view ideas, open a modal form, submit new ideas, store their username locally, and delete ideas they created while the server handles API routes and database operations.
