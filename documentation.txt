@@ -638,3 +638,48 @@ Section 22: RandomIdeas app - webpack frontend
 264. Add delete functionality
 
 265. Deploying a fullstack app
+
+
+
+Section 23: Ambient sound mixer - bonus OOP project
+
+
+266. Project intro
+
+267. Architecture & overview
+
+268. Template setup
+
+269. Sound data & main class init
+
+270. Sound manager & load sounds
+
+271. Play, pause & volume
+
+272. UI class & sound cards
+
+273. Event listeners & toggle sound
+
+274. Volume sliders
+
+275. Master volume
+
+276. Master play button
+
+277. Reset button
+
+278. Default presets
+
+279. Save custom presets
+
+280. Show custom presets
+
+281. Load custom presets
+
+282. Delete custom presets
+
+283. Sleep timer
+
+284. Theme toggler
+
+285. Deploy to Vercel

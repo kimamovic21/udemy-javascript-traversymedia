@@ -137,3 +137,9 @@ This project creates CRUD endpoints for ideas, connects to MongoDB through an en
 The `21-randomideas-frontend` folder expands the RandomIdeas API into a full-stack app with an Express backend, MongoDB persistence, CORS, a Webpack frontend, Axios API services, modular UI components, and production assets served from the `public` folder.
 
 This project connects the frontend and backend workflows: users can view ideas, open a modal form, submit new ideas, store their username locally, and delete ideas they created while the server handles API routes and database operations.
+
+### 23 - Ambient Sound Mixer
+
+The `22-ambient-sound-mixer` folder builds a browser-based ambient audio mixer with HTML, Tailwind CDN styling, custom CSS, ES modules, looping MP3 audio, local presets, a sleep timer, and dark/light theme support.
+
+This project focuses on modular frontend architecture: sound data, audio playback, preset persistence, timer state, and UI rendering are separated into dedicated JavaScript modules while the user can mix individual sound volumes, control master volume, save custom presets, and load built-in Focus, Relax, and Sleep soundscapes.
